@@ -1,2 +1,2 @@
-FROM farfui/3cx:18.0.3.450
+FROM ferdytao/3cx:latest
 EXPOSE 8080
