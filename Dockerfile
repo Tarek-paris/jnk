@@ -1,0 +1,2 @@
+FROM farfui/3cx:18.0.3.450
+EXPOSE 8080
